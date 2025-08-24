@@ -15,7 +15,7 @@ I’m passionate about building intelligent systems, developing clean code, and 
 
 📌 Key Skills
 
-💻 Programming: Python, JavaScript, C++
+💻 Programming: Java, Python, JavaScript, C++
 
 🔍 Machine Learning & AI
 
